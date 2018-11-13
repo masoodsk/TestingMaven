@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="32135" started-at="2018-11-13T04:49:20Z" finished-at="2018-11-13T04:49:53Z">
+    <groups>
+    </groups>
+    <test name="BrowserNavigation" duration-ms="32135" started-at="2018-11-13T04:49:20Z" finished-at="2018-11-13T04:49:53Z">
+      <class name="testCases.BrowserNavigation">
+        <test-method status="PASS" signature="Init()[pri:0, instance:testCases.BrowserNavigation@6a41eaa2]" name="Init" is-config="true" duration-ms="12190" started-at="2018-11-13T04:49:20Z" finished-at="2018-11-13T04:49:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Init -->
+        <test-method status="PASS" signature="Test1()[pri:0, instance:testCases.BrowserNavigation@6a41eaa2]" name="Test1" duration-ms="19881" started-at="2018-11-13T04:49:33Z" finished-at="2018-11-13T04:49:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test1 -->
+      </class> <!-- testCases.BrowserNavigation -->
+    </test> <!-- BrowserNavigation -->
+  </suite> <!-- Suite -->
+</testng-results>
